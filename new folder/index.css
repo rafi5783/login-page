@@ -1,0 +1,20 @@
+body{
+    background-image: url("goku.jpg");
+    background-size: 90rem;
+    box-sizing: content-box;
+    text-align: center;
+}
+h1{
+    flex-wrap: nowrap;
+    text-align: center;
+    -webkit-text-fill-color: silver;
+}
+.sub-btn-cl{
+    align-items: center;
+    text-align: center;
+}
+.chek-btn-pla{
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
